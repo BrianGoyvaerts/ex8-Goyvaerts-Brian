@@ -4,5 +4,8 @@
     "keywords": ["util", "functional", "server", "client", "browser"],
     "author": "Brian",
     "contributors": [],
-    "dependencies": {}
+    "dependencies": {
+        "mongodb": "^2.2.13",
+        "request": "^2.79.0"
+    }
 }
